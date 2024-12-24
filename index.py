@@ -7,4 +7,4 @@ for i in numbers:
     else:
        odd.append(i)
 print(f"Even Numbers are:{even}")
-print(f"Even Numbers are:{odd}")
+print(f"Odd Numbers are:{odd}")
